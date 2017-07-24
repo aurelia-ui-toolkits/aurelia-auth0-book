@@ -1,3 +1,4 @@
-# My Awesome Book
+# Aurelia-Auth0 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Using Auth0 PaaS in the context of the Aurelia applications
+
