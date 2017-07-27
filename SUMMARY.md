@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](Introduction.md)
-* Catalog application - key concepts
+* [Introduction](README.md)
+* [Catalog application - key concepts](catalog-application-key-concepts.md)
 
